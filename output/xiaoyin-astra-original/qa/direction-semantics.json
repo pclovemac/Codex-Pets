@@ -1,0 +1,18 @@
+{
+  "coordinate_system": "viewer/screen coordinates; clockwise from 000 up",
+  "overall_verdict": "accepted_with_user_waiver",
+  "row_9": {"verdict": "pass", "directions": ["000", "022.5", "045", "067.5", "090", "112.5", "135", "157.5"]},
+  "row_10": {
+    "verdict": "accepted_with_user_waiver",
+    "directions": [
+      {"label": "180", "expected": "down", "observed": "down", "verdict": "pass"},
+      {"label": "202.5", "expected": "down-left", "observed": "down-left", "verdict": "pass"},
+      {"label": "225", "expected": "down-left", "observed": "down-left", "verdict": "pass"},
+      {"label": "247.5", "expected": "down-left", "observed": "down-left", "verdict": "pass"},
+      {"label": "270", "expected": "left", "observed": "left", "verdict": "pass"},
+      {"label": "292.5", "expected": "up-left", "observed": "up-right bias", "verdict": "waived_warning"},
+      {"label": "315", "expected": "up-left", "observed": "up-right bias", "verdict": "waived_warning"},
+      {"label": "337.5", "expected": "up-left", "observed": "up-right bias", "verdict": "waived_warning"}
+    ]
+  }
+}

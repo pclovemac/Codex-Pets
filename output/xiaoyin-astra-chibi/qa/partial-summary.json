@@ -1,0 +1,12 @@
+{
+  "ok": false,
+  "status": "blocked-before-v2-packaging",
+  "completed": ["base", "idle", "running-right", "running-left", "waving", "jumping", "failed", "waiting", "running", "review", "look-cardinals", "look-row-9"],
+  "blocked_job": "look-row-10",
+  "reason": "Repeated hard wrong-quadrant reversal: 292.5/315/337.5 render as screen-right/up-right instead of screen-left/up-left.",
+  "intermediate_atlas": "final/spritesheet.webp",
+  "contact_sheet": "qa/contact-sheet.png",
+  "previews": "qa/previews",
+  "rejected_attempts": "qa/rejected",
+  "installed": false
+}

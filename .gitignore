@@ -1,0 +1,25 @@
+# Local/editor state
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.tmp
+*.log
+
+# Regenerable image-generation intermediates
+output/*/decoded/
+output/*/frames/
+output/*/references/
+output/*/qa/recovery/
+output/*/qa/rejected/
+output/*/qa/rows/*/frames/
+
+# Redundant lossless/intermediate atlases; distributable WebP files live in dist/.
+output/*/final/*.png
+output/*/final/spritesheet.webp
+
+# Machine-local provenance manifests contain absolute local paths.
+output/*/pet_request.json
+output/*/imagegen-jobs.json
+
+# Keep final assets, prompts, previews and QA reports under output/ tracked.

@@ -1,0 +1,10 @@
+{
+  "recorded_at": "2026-10-25T18:28:20Z",
+  "user_request": "取消第10行的限制然后创建",
+  "scope": "look-row-10 direction semantics only",
+  "does_not_waive": ["v2 atlas structure", "cell occupancy", "edge clipping", "transparent channel", "identity continuity"],
+  "accepted_limitations": [
+    "292.5, 315 and 337.5 do not reliably read as the required screen up-left quadrant",
+    "strict blind direction consensus is not an installation gate for this build"
+  ]
+}

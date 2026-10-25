@@ -1,0 +1,13 @@
+{
+  "pet_id": "xiaoyin-astra-chibi",
+  "status": "installed_with_user_direction_waiver",
+  "installed_at": "C:\\Users\\Jins\\.codex\\pets\\xiaoyin-astra-chibi",
+  "atlas": {"width": 1536, "height": 2288, "columns": 8, "rows": 11, "spriteVersionNumber": 2},
+  "structural_validation": "pass",
+  "standard_rows_visual_qa": "pass",
+  "direction_continuity": "pass_with_review_warnings",
+  "direction_semantics": "row_10_292.5_to_337.5_accepted_by_user_waiver",
+  "strict_hatch_pet_semantic_conformance": false,
+  "source_row_10": "qa/rejected/look-row-10-anatomical-right-attempt.png",
+  "final_spritesheet": "final/spritesheet-extended.webp"
+}

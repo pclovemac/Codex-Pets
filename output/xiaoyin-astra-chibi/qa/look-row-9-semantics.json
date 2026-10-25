@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "row": "look-row-9",
+  "directions": [
+    {"direction":"000","verdict":"pass","horizontal":"centered","vertical":"up","reason":"eyes and chin are visibly raised with a frontal face"},
+    {"direction":"022.5","verdict":"pass","horizontal":"slight screen-right","vertical":"up","reason":"eyes lead right while chin remains raised"},
+    {"direction":"045","verdict":"pass","horizontal":"screen-right","vertical":"up","reason":"head begins a right yaw while keeping an upward gaze"},
+    {"direction":"067.5","verdict":"pass","horizontal":"screen-right","vertical":"slight up","reason":"nose and pupils move farther right and the upward component reduces evenly"},
+    {"direction":"090","verdict":"pass","horizontal":"screen-right","vertical":"neutral","reason":"clear right profile family with nose and gaze right of head center"},
+    {"direction":"112.5","verdict":"pass","horizontal":"screen-right","vertical":"slight down","reason":"right-facing head begins dipping toward the clipboard"},
+    {"direction":"135","verdict":"pass","horizontal":"screen-right","vertical":"down","reason":"right yaw is retained while eyelids and chin move downward"},
+    {"direction":"157.5","verdict":"pass","horizontal":"slight screen-right","vertical":"down","reason":"face approaches the down cardinal without reversing horizontal motion"}
+  ],
+  "continuity":{"verdict":"pass","reason":"feet and baseline remain anchored; face, hair and clipboard advance gradually with no visible snap, scale pop or side flip"}
+}

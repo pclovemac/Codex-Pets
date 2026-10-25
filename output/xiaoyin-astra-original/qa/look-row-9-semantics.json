@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "row": "look-row-9",
+  "directions": [
+    {"direction":"000","verdict":"pass","horizontal":"centered","vertical":"up","reason":"frontal face has raised eyes and chin"},
+    {"direction":"022.5","verdict":"pass","horizontal":"slight screen-right","vertical":"up","reason":"eyes and nose begin moving right while chin stays lifted"},
+    {"direction":"045","verdict":"pass","horizontal":"screen-right","vertical":"up","reason":"upper-right gaze combines clear right yaw with lifted eyes"},
+    {"direction":"067.5","verdict":"pass","horizontal":"screen-right","vertical":"slight up","reason":"right yaw strengthens and vertical lift reduces continuously"},
+    {"direction":"090","verdict":"pass","horizontal":"screen-right","vertical":"neutral","reason":"nose and gaze are clearly right of head center"},
+    {"direction":"112.5","verdict":"pass","horizontal":"screen-right","vertical":"slight down","reason":"right-facing head starts a small downward pitch"},
+    {"direction":"135","verdict":"pass","horizontal":"screen-right","vertical":"down","reason":"eyes and chin lower while right profile is preserved"},
+    {"direction":"157.5","verdict":"pass","horizontal":"slight screen-right","vertical":"down","reason":"pose approaches the down family without a lateral reversal"}
+  ],
+  "continuity":{"verdict":"pass","reason":"body registration, feet, scale, crown and clipboard remain stable while gaze changes evenly"}
+}
